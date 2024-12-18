@@ -13,5 +13,5 @@ Este repositório contém dois scripts de calculadora, um em Python e outro em B
 ### Passos:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MMartinez1993/calculadora-script.git
+   git clone https://github.com/MMartinez1993/calculadora-.git
    cd calculadora-script
